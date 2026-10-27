@@ -1761,6 +1761,7 @@ Update Time, five active automations, webhooks.
   * [SimpleBackups.com](https://simplebackups.com/) - Backup automation service for servers and databases (MySQL, PostgreSQL, MongoDB) stored directly into cloud storage providers (AWS, DigitalOcean, and Backblaze). Provides a free plan for 1 backup.
   * [SimpleRestore](https://simplerestore.io) - Hassle-free MySQL backup restoration. Restore MySQL backups to any remote database without code or a server.
   * [SnapShooter](https://snapshooter.com/) - Backup solution for DigitalOcean, AWS, LightSail, Hetzner, and Exoscale, with support for direct database, file system and application backups to s3 based storage. Provides a free plan with daily backups for one resource.
+  * [UtilifyAI](https://utilifyai.com/) - 26+ free browser-based PDF, image, text, and AI productivity tools (PDF Compress/Merge/Unlock, EXIF Scrubber, Text Encoder) with no sign-up or daily limits.
   * [VPS Snaps](https://vpssnaps.com) - Automated server backups and snapshots across 8 cloud providers, stored in your own bucket or Google Drive. Free plan: 1 server, daily backups, no credit card.
 
 **[⬆️ Back to Top](#table-of-contents)**
